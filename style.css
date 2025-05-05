@@ -1,0 +1,29 @@
+.logo{
+    width: 125px;
+    height: 125px;
+}
+.b{
+    color: rgb(26, 85, 50);
+    text-align: center;
+    font-size: 65px;
+    font-family: "Monotype Corsiva";
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+h2{
+    color: rgb(26, 85, 50);
+    font-family: "Monotype Corsiva";
+    font-size: 35px;
+}
+body{
+    background: silver
+    url(img.jpg);
+    font-size: 25px;
+}
+.red{
+    text-align: center;
+    color: red;
+    font-size: 30px;
+}
